@@ -1,5 +1,7 @@
 # Time-FrequencyWeighted-Overlapping-Group-Shrinkage-for-Speech-Denoising </br>
 This repository contains a paper and a brief presentation along with the results we obtained while improving upon the results obtained for speech denoising through the OGS-algorithm </br>
+The paper is currently under review at the IEEE-ICASSP (Internation Conference on Acoustics, Speech and Signal Processing). </br>
+The zip folder contains the matlab based code to replicate our algorithm and results</br>
 Following is the abstract to our work </br>
 Developing on the idea of using the predetermined structural
 knowledge in convex optimization problems, we focus
